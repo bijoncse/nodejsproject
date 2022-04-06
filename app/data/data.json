@@ -1,0 +1,22 @@
+{
+  "friends": [{
+    "title" : "Good Friend",
+    "name": "Robart Vincent",
+    "shortname" : "Robart",
+    "summary" : "Introduction",
+    "description": "<p> Lorem Ipsum..... </p>"
+    },{
+    "title" : "Best Friend ",
+    "name": "Jhon Kenny",
+    "shortname" : "Jhon",
+    "summary": "Introduction",
+    "description": "<p>Jhon is a excellent man.</p>"
+  },{
+    "title" : "ME",
+    "name": "Bijon",
+    "shortname" : "Bijon",
+    "summary": "Introduction",
+    "description": "<p>Ut enim ad minim veniam</p>"
+
+  }]
+}

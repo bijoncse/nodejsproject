@@ -1,0 +1,16 @@
+{
+  "name": "nodejs_project",
+  "version": "1.0.0",
+  "description": "something",
+  "main": "app/app.js",
+  "scripts": {
+    "start": "nodemon -e js,css,ejs,json app/app.js watch app"
+  },
+  "author": "aminul",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.3",
+    "reload": "^3.2.0"
+  }
+}
